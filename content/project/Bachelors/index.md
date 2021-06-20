@@ -23,5 +23,6 @@ excerpt: "I measured the presence of the WNT5A protein the gut of a Carnegie Sta
 - [Research poster](https://drive.google.com/file/d/1jmUJNHydDgV3-tvmsTmlrqDHbtkCfDcq/view?usp=sharing
 ) won awards at two separate [University competitions](https://research.ncl.ac.uk/expeditionresearchscholarships/prizewinners/2016winners/).  
 
+
 ***
 
