@@ -14,12 +14,14 @@ layout: single
 
 **I'm an avid bibliophile, coffee enthusiast, occasional ukulele player, and Team Xbox.**   
 
+**[My email](mailto:nikita.telkar@bcchr.ca) and [my CV](https://github.com/nikita-telkar/apero/blob/main/static/Nikita_Telkar_Academic_CV.pdf).**
+
 ***  
 
 ### Education  
 
-**PhD in Medical Genetics**  
-*University of British Columbia, Canada*  
+**PhD in Medical Genetics**  (2019 -  )   
+*University of British Columbia, Canada*      
 Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](content/project/PhD)
 | Co-Supervisor  | Institute | Links |  
 | -- | -- | -- |  
@@ -28,14 +30,14 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](co
 
 <br>  
 
-**MSc in Genetics of Human Disease**  
-*University College London, England*  
+**MSc in Genetics of Human Disease** (2017 - 2018)  
+*University College London, England*    
 Thesis Project: Comparing the Genetic Architecture of Lipid Traits between Populations  
 Supervior: [Dr. Karoline Kuchenbaecker](https://www.ucl.ac.uk/biosciences/people/dr-karoline-kuchenbaecker)   
 
 <br>  
 
-**BSc in Biomedical Genetics**  
+**BSc in Biomedical Genetics**  (2014 -2017)    
 *University of Newcastle upon Tyne, England*  
 Thesis Project: Genome-wide RNAi Screening to identify new genes involved in Mitochondrial Disease  
 
