@@ -22,7 +22,7 @@ layout: single
 
 **PhD in Medical Genetics**  (2019 -  )   
 *University of British Columbia, Canada*      
-Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](content/project/PhD)
+Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](https://nikita-telkar.netlify.app/project/phd/)
 | Co-Supervisor  | Institute | Links |  
 | -- | -- | -- |  
 | Dr. Wendy Robinson | BC Children's Hospital Research Institute | [Lab Website](https://robinsonresearch.ca) /  [Institute Website](https://www.bcchr.ca/wrobinson) |  
@@ -32,8 +32,8 @@ Thesis Project: [Characterizing small non-coding RNAs in the Human Placenta.](co
 
 **MSc in Genetics of Human Disease** (2017 - 2018)  
 *University College London, England*    
-Thesis Project: Comparing the Genetic Architecture of Lipid Traits between Populations  
-Supervior: [Dr. Karoline Kuchenbaecker](https://www.ucl.ac.uk/biosciences/people/dr-karoline-kuchenbaecker)   
+Thesis Project: [Comparing the Genetic Architecture of Lipid Traits between Populations](https://nikita-telkar.netlify.app/project/masters/)   
+Supervisor: [Dr. Karoline Kuchenbaecker](https://www.ucl.ac.uk/biosciences/people/dr-karoline-kuchenbaecker)   
 
 <br>  
 
