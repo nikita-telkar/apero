@@ -22,20 +22,16 @@ Virtual Knowledge Exchange Grant 2021 – BC Children’s Hospital Research Inst
 President's Academic Excellence Initiative PhD Award (2020-2024) – University of British Columbia   
 International Tuition Award (2019-2024) – University of British Columbia  
 [Genes and Development Summer Studentship 2016](https://genetics.org.uk/event/our-workshops/summer-studentships/) – The Genetics Society UK  
-![The Genetics Society UK Summer Studentship Workshop 2016, Edinburgh](../../../static/img/GenSoc.jpeg)  
+![The Genetics Society UK Summer Studentship Workshop 2016, Edinburgh](https://github.com/nikita-telkar/apero/blob/main/static/img/GenSoc.jpeg)  
 
-```{r echo=FALSE, out.width="50%", fig.align='center'}
 
-knitr::include_graphics("../../../static/img/GenSoc.jpeg")
-
-```
 Faculty of Medical Sciences Undergraduate Research Scholarship 2016 - Newcastle University  
 Commendation Award, [Student Research Scholarships and Expeditions Exhibition 2016](https://research.ncl.ac.uk/expeditionresearchscholarships/prizewinners/2016winners/) – Newcastle University    
 ![Student Research Scholarships and Expeditions Exhibition 2016, Newcastle upon Tyne](../../../static/img/commendation.jpeg)   
 
 ```{r echo=FALSE, out.width="50%", fig.align='center'}
 
-knitr::include_graphics("../../../static/img/commendation.jpeg")
+knitr::include_graphics("https://github.com/nikita-telkar/apero/blob/main/static/img/GenSoc.jpeg")
 
 ```
 
