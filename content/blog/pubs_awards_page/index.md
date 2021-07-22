@@ -7,29 +7,30 @@ layout: single
 ---  
 
 
-```
-## here() starts at /Users/nikitatelkar/Github/apero
-```
 
 
 ### Awards  
 
-Virtual Knowledge Exchange Grant 2021 – BC Children’s Hospital Research Institute  
-[4 Year Doctoral Fellowship (4YF) Award](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf) (2020-2024) – University of British Columbia  
-President's Academic Excellence Initiative PhD Award (2020-2024) – University of British Columbia   
-International Tuition Award (2019-2024) – University of British Columbia  
-[Genes and Development Summer Studentship 2016](https://genetics.org.uk/event/our-workshops/summer-studentships/) – The Genetics Society UK  
-![The Genetics Society UK Summer Studentship Workshop 2016, Edinburgh](https://github.com/nikita-telkar/apero/blob/main/static/img/GenSoc.jpeg)  
+**Virtual Knowledge Exchange Grant 2021** – BC Children’s Hospital Research Institute   
+   
+**[4 Year Doctoral Fellowship (4YF) Award](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf)** (2020-2024) – University of British Columbia  
+   
+**President's Academic Excellence Initiative PhD Award** (2020-2024) – University of British Columbia   
+   
+**International Tuition Award (2019-2024)** – University of British Columbia  
+   
+**[Genes and Development Summer Studentship 2016](https://genetics.org.uk/event/our-workshops/summer-studentships/)** – The Genetics Society UK
+![The Genetics Society UK Summer Studentship Workshop 2016, Edinburgh](GenSoc.jpeg)  
+   
+**Faculty of Medical Sciences Undergraduate Research Scholarship 2016** - Newcastle University  
+   
+**Commendation Award, [Student Research Scholarships and Expeditions Exhibition 2016](https://research.ncl.ac.uk/expeditionresearchscholarships/prizewinners/2016winners/)** – Newcastle University    
+![Student Research Scholarships and Expeditions Exhibition 2016, Newcastle upon Tyne](commendation.jpeg)   
+   
 
-
-Faculty of Medical Sciences Undergraduate Research Scholarship 2016 - Newcastle University  
-Commendation Award, [Student Research Scholarships and Expeditions Exhibition 2016](https://research.ncl.ac.uk/expeditionresearchscholarships/prizewinners/2016winners/) – Newcastle University    
-![Student Research Scholarships and Expeditions Exhibition 2016, Newcastle upon Tyne](../../../static/img/commendation.jpeg)   
-
-<img src="https://github.com/nikita-telkar/apero/blob/main/static/img/GenSoc.jpeg" width="50%" style="display: block; margin: auto;" />
-
-Second Place Poster Award 2016, Newcastle University Faculty of Medicine – Newcastle University      
-ncl+ Award – Newcastle University (for extracurricular achievement)   
+**Second Place Poster Award 2016**, Newcastle University Faculty of Medicine – Newcastle University      
+   
+**ncl+ Award – Newcastle University** (for extracurricular achievement)   
 
 ***  
 
