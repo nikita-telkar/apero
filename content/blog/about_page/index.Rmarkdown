@@ -10,9 +10,9 @@ layout: single
 
 **A 2nd year PhD Candidate in the [Medical Genetics Graduate Program](https://medgen.med.ubc.ca/) at [The University of British Columbia](https://ubc.ca), I currently reside in the lovely and vibrant city of Vancouver.**    
 
-**My research interests lie in developmental, cardiovascular, and population genetics. My curiotsity is driven by wanting to *elucidate the genetic differences that exist between populations of different ancestries*.**    
+**My research interests lie in developmental, cardiovascular, and population genetics. My curiosity is driven by wanting to *elucidate the genetic differences that exist between populations of different ancestries*.**    
 
-**I'm an avid bibliophile, coffee enthusiast, occasional ukulele player, and Team Xbox.**   
+**I'm an avid bibliophile, coffee enthusiast, occasional ukulele player, and Team Xbox. I also make and sell custom genetics-themed graphics and merchandise on [Etsy](https://www.etsy.com/ca/shop/ScribblezbyNiki)!**   
 
 **[My email](mailto:nikita.telkar@bcchr.ca) and [my CV](https://github.com/nikita-telkar/apero/blob/main/static/Nikita_Telkar_Academic_CV.pdf).**
 

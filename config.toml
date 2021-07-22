@@ -85,6 +85,10 @@ enableEmoji = true
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/nikitatelkar/"
+  [[params.social]]
+      icon      = "etsy" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.etsy.com/ca/shop/ScribblezbyNiki"
 
 [taxonomies]
   category = "categories"
@@ -107,6 +111,11 @@ enableEmoji = true
     title = "Experience"
     url = "/blog/leadership_page"
     weight = 3
+  [[menu.header]]
+    name = "Pubs/Awards"
+    title = "Publications and Awards/Acheivements"
+    url = "/blog/pubs_awards_page"
+    weight = 4
     
   # Configure footer  
   [[menu.footer]]
