@@ -3,7 +3,7 @@ title: "Experience"
 date: 2001-01-01
 draft: false
 # layout options: single, single-sidebar
-layout: single
+layout: single-sidebar
 ---  
 
 ### Academic and Professional Experience  
@@ -32,6 +32,7 @@ Department of Neuroscience, University College London (Nov 2017 - Jan 2018)
 [SPIRITFUL](https://www.instagram.com/thespiritfulshop/) (April - Septmeber 2019)  
 - Started a business selling original artwork, handling all workflow from procuring raw material, assembly, marketing, to shipping  - 60% profit margin, 25% of profits directed to the HelpAge India NGO - a non-profit focused on the elderly  
 
+<br>
 
 ### Leadership Initiatives
 
@@ -45,7 +46,6 @@ Department of Medical Genetics, UBC (2019 – Present)
 - Part of the Advisory Committee for the Department of Medical Genetics  
 - [Singlehandedly redesigned and updated the department website](https://medgen.med.ubc.ca/) using WordPress with CSS and HTML
 
-
  <font size="4"> **Executive Member**  
 [UBC Medical Genetics Graduate Student Association](https://mggsa.ca/) (January 2021 – Present)  
  - Assisting the board with executive decisions and planning events at this departmental social and outreach association  
@@ -55,7 +55,7 @@ Department of Medical Genetics, UBC (2019 – Present)
  - Responsible for making executive marketing decisions, along with designing [weekly promotional graphics](https://twitter.com/ubc3mt/status/1359683538581401606/photo/1), communications outreach and website upkeep  
  
   <font size="4"> **Volunteer**  </font>   
- [Geneskool], Fenome British Columbia(https://www.genomebc.ca/education/what-is-geneskool/) (October 2019 – October 2020)  
+ [Geneskool, Genome British Columbia](https://www.genomebc.ca/education/what-is-geneskool/) (October 2019 – October 2020)  
  - Conducting interactive activities at local schools to educate students about genetics and its applications.  
  - Committee Member at the Girls and STEAM Symposium 2019 hosted by BC Science World  
 
