@@ -8,6 +8,11 @@ layout: single
 
 ### Academic and Professional Experience  
 
+**Teaching Assistant** (Sept - Dec 2020)  
+University of British Columbia, Canada    
+TA for the [graduate MEDG 520 Advanced Human Molecular Genetics course](https://med-fom-medgen.sites.olt.ubc.ca/files/2020/10/MEDG520-syllabus-2020W-Final-1.pdf) in the [Department of Medical Genetics](https://medgen.med.ubc.ca/). <br><br> Instrumental in restructuring the course and assignments for the year, along with assisting course instructors in class and holding tutorial sessions for the students.  
+*“Nikita always responded promptly and thoughtfully to requests for advice. Her input and assistance helped guide the learning process. She did everything I think a good teacher should, and went above and beyond the time and effort I would expect from a TA. She was the best part of the course.”*
+
 | Position | Location | Description |  
 | -- | --- | --- |  
 | **Teaching Assistant** <br><br> *Employment* | University of British Columbia, Canada <br><br> Sept - Dec 2020 | TA for the [graduate MEDG 520 Advanced Human Molecular Genetics course](https://med-fom-medgen.sites.olt.ubc.ca/files/2020/10/MEDG520-syllabus-2020W-Final-1.pdf) in the [Department of Medical Genetics](https://medgen.med.ubc.ca/). <br><br> Instrumental in restructuring the course and assignments for the year, along with assisting course instructors in class and holding tutorial sessions for the students.  <br><br>  *“Nikita always responded promptly and thoughtfully to requests for advice. Her input and assistance helped guide the learning process. She did everything I think a good teacher should, and went above and beyond the time and effort I would expect from a TA. She was the best part of the course.”* |  
