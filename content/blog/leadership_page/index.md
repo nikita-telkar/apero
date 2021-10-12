@@ -8,7 +8,7 @@ layout: single
 
 ### Academic and Professional Experience  
 
-#### Teaching Assistant  
+ <font size="2"> **Teaching Assistant** </font>     
 University of British Columbia, Canada (Sept - Dec 2020)   
 - TA for the [graduate MEDG 520 Advanced Human Molecular Genetics course](https://med-fom-medgen.sites.olt.ubc.ca/files/2020/10/MEDG520-syllabus-2020W-Final-1.pdf) in the [Department of Medical Genetics](https://medgen.med.ubc.ca/).  
 - Instrumental in restructuring the course and assignments for the year, along with assisting course instructors in class and holding tutorial sessions for the students.  
