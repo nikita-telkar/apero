@@ -8,11 +8,17 @@ layout: single
 
 ### Academic and Professional Experience  
 
- <font size="6"> **Teaching Assistant** </font>     
+ <font size="4"> **Teaching Assistant** </font>     
 University of British Columbia, Canada (Sept - Dec 2020)   
 - TA for the [graduate MEDG 520 Advanced Human Molecular Genetics course](https://med-fom-medgen.sites.olt.ubc.ca/files/2020/10/MEDG520-syllabus-2020W-Final-1.pdf) in the [Department of Medical Genetics](https://medgen.med.ubc.ca/).  
 - Instrumental in restructuring the course and assignments for the year, along with assisting course instructors in class and holding tutorial sessions for the students.  
 *“Nikita always responded promptly and thoughtfully to requests for advice. Her input and assistance helped guide the learning process. She did everything I think a good teacher should, and went above and beyond the time and effort I would expect from a TA. She was the best part of the course.”*
+
+<font size="4"> **Biostatistics Expert** </font>  
+[BC Children's Hospital Research Institute, Vancouver](https://www.bcchr.ca), Canada (Jan - June 2021)  
+- Responsible for developing open access videos and resources focused on the statistical terms, concepts, and analyses undertaken in health research at various levels (beginner, intermediate and advanced) for the BCCHR 2021 Summer Student Research Program.  
+- Also coded and created a hands-on tutorial in R.  
+- Videos available on the [BCCHR website](https://bcchr.ca/summerprogram/statistical-videos). |  
 
 | Position | Location | Description |  
 | -- | --- | --- |  
